@@ -1,0 +1,20 @@
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 30px; /* size of chrome */
+    height: 0; 
+    overflow: hidden;
+    margin-left: 19%;
+    margin-right:19%;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container #overlay,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

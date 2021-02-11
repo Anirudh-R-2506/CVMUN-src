@@ -1,0 +1,35 @@
+[19-Dec-2020 05:51:23 UTC] PHP Notice:  Undefined index: login in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 111
+[19-Dec-2020 05:51:23 UTC] PHP Notice:  Undefined index: com in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 112
+[19-Dec-2020 05:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php:113
+Stack trace:
+#0 /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php(120): get_del2()
+#1 {main}
+  thrown in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 113
+[19-Dec-2020 05:51:42 UTC] PHP Notice:  Undefined index: login in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 111
+[19-Dec-2020 05:51:42 UTC] PHP Notice:  Undefined index: com in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 112
+[19-Dec-2020 05:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php:113
+Stack trace:
+#0 /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php(120): get_del2()
+#1 {main}
+  thrown in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 113
+[19-Dec-2020 05:52:34 UTC] PHP Notice:  Undefined index: login in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 111
+[19-Dec-2020 05:52:34 UTC] PHP Notice:  Undefined index: com in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 112
+[19-Dec-2020 05:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php:113
+Stack trace:
+#0 /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php(120): get_del2()
+#1 {main}
+  thrown in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 113
+[19-Dec-2020 05:52:49 UTC] PHP Notice:  Undefined index: login in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 111
+[19-Dec-2020 05:52:49 UTC] PHP Notice:  Undefined index: com in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 112
+[19-Dec-2020 05:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php:113
+Stack trace:
+#0 /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php(120): get_del2()
+#1 {main}
+  thrown in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 113
+[19-Dec-2020 05:52:58 UTC] PHP Notice:  Undefined index: login in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 111
+[19-Dec-2020 05:52:58 UTC] PHP Notice:  Undefined index: com in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 112
+[19-Dec-2020 05:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php:113
+Stack trace:
+#0 /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php(120): get_del2()
+#1 {main}
+  thrown in /home/u864523831/domains/cvmun.tech/public_html/cvmun/index.php on line 113

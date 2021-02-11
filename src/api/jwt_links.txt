@@ -1,0 +1,17 @@
+list all upcoming meetings and get their deets
+
+https://api.zoom.us/v2/users/iFCe7XnmQ86j2xOfevRMAg/meetings?type=upcoming
+
+create a scheduled meeting
+
+https://api.zoom.us/v2/users/iFCe7XnmQ86j2xOfevRMAg/meetings
+
+add registrant
+
+https://api.zoom.us/v2/meetings/82277118460/registrants. [meeting id required]
+
+
+NOTE
+----
+
+MAIL ID ALSO QUALIFIES AS USER ID

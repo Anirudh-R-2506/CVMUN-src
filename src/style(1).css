@@ -1,0 +1,110 @@
+.login-box{
+    width: 100%;
+    height: auto;
+    background: black;
+    color: #fff;
+    outline: none;
+
+}
+@media (max-width: 767px) {
+  .login-box{
+    margin-bottom: 30px;
+  }
+}
+.login-box input{
+    width: 60%;
+    margin-bottom: 20px;
+    font-size: 25px!important;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 18px;
+}
+::-webkit-input-placeholder {
+  font-size: 25px;
+  color: rgba(255,255,255,0.6);
+}
+::-moz-placeholder {
+  font-size: 25px;
+  color: rgba(255,255,255,0.6);
+}
+:-ms-input-placeholder {
+  font-size: 25px;
+  color: rgba(255,255,255,0.6);
+}
+::placeholder {
+  font-size: 25px;
+  color: rgba(255,255,255,0.6);
+}
+
+.container {
+  display: block;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 10px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+  .container {
+    display: block;
+    position: relative;
+    margin-bottom: 1%;
+    cursor: pointer;
+    font-size: 25px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+
+  .checkmark {
+    position: absolute;
+    margin-bottom: 4vh;
+    top: 0;
+    left: 10;
+    height: 3vh;
+    width: 3vh;
+    background-color: #eee;
+    border-radius: 50%;
+  }
+
+  .container:hover input ~ .checkmark {
+    background-color: #ccc;
+  }
+
+  .container input:checked ~ .checkmark {
+    background-color: #ca5a2b;
+  }
+
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+
+  .container input:checked ~ .checkmark:after {
+    display: block;
+  }
+
+  .container .checkmark:after {
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    background: white;
+  }
